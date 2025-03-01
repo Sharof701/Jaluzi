@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS "admin";
+DROP TABLE IF EXISTS "product";
+DROP TABLE IF EXISTS "order";
+DROP TABLE IF EXISTS "order_items";
